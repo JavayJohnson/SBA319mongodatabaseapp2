@@ -28,3 +28,4 @@ This application is built using Node.js, Express, and MongoDB. It includes three
 2. Start the server: `node app.js`
 3. To populate the database with sample data, run: `node data/sampleData.js`
 4. Access API endpoints at `http://localhost:3000/api`
+# SBA319mongodatabaseapp2
